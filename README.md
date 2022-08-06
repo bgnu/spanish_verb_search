@@ -1,3 +1,4 @@
+
 # Overview
 
 This simple script allows the fast lookup of Spanish verbs and returns present, preterite, imperfect, conditional and future tenses for the indicative mood. It uses the [fred-jehle-spanish-verbs](https://github.com/ghidinelli/fred-jehle-spanish-verbs) database.
@@ -6,7 +7,9 @@ Currently it doesn't return the subjunctive or imperative moods, participles, an
 
 # Installation
 
-*how to install it*
+1. Using your terminal, navigate to the folder you'd like to clone this repo to.
+2. Use this command to clone the repo:
+`https://github.com/bgnu/spanish_verb_search.git`
 
 # Use
 
