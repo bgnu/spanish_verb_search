@@ -9,7 +9,7 @@ Currently it doesn't return the subjunctive or imperative moods, participles, an
 
 1. Using your terminal, navigate to the folder you'd like to clone this repo to.
 2. Use this command to clone the repo:
-`https://github.com/bgnu/spanish_verb_search.git`
+`git clone https://github.com/bgnu/spanish_verb_search.git`
 
 # Use
 
